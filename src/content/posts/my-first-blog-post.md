@@ -7,9 +7,7 @@ tags: [RVC, AI模型]
 category: RVC模型
 draft: false
 ---
-<a href="通过网盘分享的文件：RVC整合包
-链接: https://pan.baidu.com/s/1Gdt6nItrq3qCrcR2g6HkzQ?pwd=wcei 提取码: wcei 
---来自百度网盘超级会员v1的分享" target="_blank">点击这里即可访问</a>
+链接：[点击这里即可访问](https://pan.baidu.com/s/111cO8aqRS9haWFeUkzSY_w?pwd=geyj )
 
 ### ⚠️ 使用注意事项
 
