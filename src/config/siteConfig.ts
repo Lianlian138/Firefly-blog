@@ -20,13 +20,13 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
-		"技术博客",
-		"静态博客",
+		"ALICE",
+		"ALICE",
+		"ALICE",
+		"ALICE",
+		"ALICE",
+		"ALICE",
+		"ALICE",
 	],
 
 	// 主题色
@@ -45,9 +45,9 @@ export const siteConfig: SiteConfig = {
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
@@ -76,9 +76,9 @@ export const siteConfig: SiteConfig = {
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
 		logo: {
 			type: "image",
-			value: "assets/images/logo/alice-light.png",
-			valueDark: "assets/images/logo/alice-dark.png",
-			alt: "🍀",
+			value: "assets/images/logo/alice-light.gif",
+			valueDark: "assets/images/logo/alice-dark.gif",
+			alt: "🍟",
 		},
 		// 导航栏标题
 		title: "Alice",
@@ -108,9 +108,9 @@ export const siteConfig: SiteConfig = {
 		// 留言板页面开关，需要配置评论系统
 		guestbook: true,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐
-		bangumi: true,
+		bangumi: false,
 		// 相册页面开关
-		gallery: true,
+		gallery: false,
 		// 追番页面开关
 		anime: true,
 		// 动态页面开关
