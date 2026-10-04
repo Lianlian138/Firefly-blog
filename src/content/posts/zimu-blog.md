@@ -2,7 +2,7 @@
 title: 日语歌词双语字幕生成器
 published: 2026-08-11
 description: 仅学习用途，禁止盈利
-image: ./zd3.png
+image: ./images/zd3.png
 tags: [TOOL, 实用]
 category: TOOL
 draft: false

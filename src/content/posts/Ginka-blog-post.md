@@ -2,7 +2,7 @@
 title: GINKA
 published: 2026-08-07
 description: 仅学习用途，禁止盈利
-image: ./ginka.jpg
+image: ./images/ginka.jpg
 tags: [GAL, 视觉文字小说]
 category: GAL
 draft: false

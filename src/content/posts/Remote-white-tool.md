@@ -2,7 +2,7 @@
 title: 立绘白底移除工具
 published: 2026-08-11
 description: 仅学习用途，禁止盈利
-image: ./zd2.png
+image: ./images/zd2.png
 tags: [TOOL, 实用]
 category: TOOL
 draft: false

@@ -1,7 +1,5 @@
 {
   "src:assets/images/avatar.avif": "dcd8d5d1cecabea9a9",
-  "public:gallery/firefly-2026/cover.avif": "7588a28a8f989e8d88",
-  "public:gallery/firefly-2026/1.avif": "c8bca9dde6d2babfb5",
   "src:assets/images/DesktopWallpaper/d6.avif": "d9e5ec9ca7aebda9b0",
   "src:assets/images/DesktopWallpaper/d5.avif": "e2dbe0e1dae1d9c9cd",
   "src:assets/images/DesktopWallpaper/d4.avif": "727991b7a7bbe2b8c2",
@@ -14,8 +12,6 @@
   "src:assets/images/MobileWallpaper/m3.avif": "c3a6b4dac2cad2c0c9",
   "src:assets/images/MobileWallpaper/m2.avif": "f1e0ded8c2c6bbb0bc",
   "src:assets/images/MobileWallpaper/m1.avif": "cccce0cbc0d59294c0",
-  "public:assets/images/sponsor/wechat.png": "d5d5d5dad9d7dbd8cf",
-  "public:assets/images/sponsor/alipay.png": "8ebbde91bedf93c0e0",
   "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93",
   "src:content/posts/images/vitepress.avif": "3d3d43e1e1e7ebe0da",
   "src:content/posts/images/right-grid2.avif": "cbcdcddddcd9d8d7db",
@@ -31,7 +27,11 @@
   "src:content/posts/images/both-list.avif": "e5e7e4e6e8e7e3e3e5",
   "src:content/posts/images/both-grid.avif": "d5d6d3e6e7e3d8d9e3",
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
-  "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
-  "src:assets/images/logo/firefly-light.png": "000000000000000000",
-  "src:assets/images/logo/firefly-dark.png": "ffffffffffffffffff"
+  "src:content/posts/images/zd4.png": "525769363b48282c36",
+  "src:content/posts/images/zd3.png": "615d79ae9cb459586d",
+  "src:content/posts/images/zd2.png": "e1d0baaa9e975e5161",
+  "src:content/posts/images/zd.png": "474d6c474e71474a65",
+  "src:content/posts/images/ginka.jpg": "37425e4d5976556184",
+  "public:assets/images/sponsor/wechat.jpg": "9d9d9d999a998e918f",
+  "public:assets/images/sponsor/alipay.jpg": "888b8c88898b909294"
 }

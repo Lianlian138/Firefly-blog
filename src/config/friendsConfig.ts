@@ -22,7 +22,15 @@ export const friendsPageConfig: FriendsPageConfig = {
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
-	
+	{
+		title: "CanFlyhang",
+		imgurl: "https://github.com/CanFlyhang.png",
+		desc: "CanFlyhang",
+		siteurl: "https://canflyhang.github.io/",
+		tags: ["个人网站"],
+		weight: 10,
+		enabled: true,
+	},
 ];
 
 // 获取启用的友链并进行排序

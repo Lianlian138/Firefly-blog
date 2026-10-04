@@ -2,7 +2,7 @@
 title: 鼠标光标汇总
 published: 2026-09-29
 description: 仅学习用途，禁止盈利
-image: ./zd4.png
+image: ./images/zd4.png
 tags: [鼠标光标, ]
 category: 鼠标光标
 draft: false

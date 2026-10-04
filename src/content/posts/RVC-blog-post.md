@@ -2,7 +2,7 @@
 title: RVC整合包汇总
 published: 2026-08-06
 description: 仅学习用途，禁止盈利
-image: ./zd.png
+image: ./images/zd.png
 tags: [RVC, AI模型]
 category: RVC模型
 draft: false
